@@ -1,5 +1,5 @@
 //Juan Manuel Mateus - 201821445
-//E1: COlor y forma: ringlete!
+//E1: Color y forma: ringlete!
 
 //espacio y fondo
 size (700,700);
